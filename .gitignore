@@ -1,0 +1,6 @@
+.vagrant
+*.egg-info
+*.py[co]
+.vagrant*
+
+hsdeploy/localenvs.py
